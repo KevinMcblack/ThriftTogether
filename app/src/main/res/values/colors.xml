@@ -7,4 +7,8 @@
     <color name="white">#FFFFFF</color>
     <color name="split_line">#e2e2e2</color>
     <color name="tabbar_color">#aaaaaa</color>
+    <color name="division">#bfbfbf</color>
+    <color name="theme_text">#7F7F7F</color>
+    <color name="black">#000</color>
+    <color name="red">#CC3333</color>
 </resources>

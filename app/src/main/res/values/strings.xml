@@ -5,4 +5,7 @@
     <string name="mall">商城</string>
     <string name="mine">我的</string>
     <string name="points_mall">积分商城</string>
+    <string name="collection">收藏</string>
+    <string name="RecentlyViewed">最近浏览</string>
+    <string name="VoucherPackage">券包</string>
 </resources>
